@@ -1,0 +1,86 @@
+Nav bar- logo , Donats Our Team Our Projects 
+                     Brouhny Server 
+"Brouhny" is an epic game server for Counter-Strike: Global Offensive (CS:GO) that will definitely captivate you with its intriguing atmosphere and addictive gameplay. With this server, you will enter the exciting world of competitive esports and find many interesting opportunities to play and have fun.
+
+"Brouhny" is the perfect place for players of all skill levels, from beginners to experienced professionals.
+Our new Youtube video :
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/k1VW8znw7Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+ encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Our Server Skills:
+Tournaments
+Tournaments are held on our server every month. The prizes are as follows: 1st place - $350, 2nd place - Kalash Azymov, 3rd place - $50
+. Each team should have five players. First, you must go to 1 qualifying round to enter the winners' bracket.
+16 teams meet in the winners' bracket and compete for an exit in 1/8
+and so on until the semi-finals in the semi-finals 4 teams and only 2 pass. The last team won.
+Online:
+On the "Brouhny" server, we are proud of the huge online that attracts players from all over the world. This is the place where CS:GO lovers can meet, fight in exciting battles and create unforgettable gaming moments.
+Thanks to our attractive and friendly gaming environment, you will be able to make new friends and share your gaming achievements with the community. The large online server "Brouhny" creates a unique atmosphere filled with energy and adrenaline, which will allow you to fully immerse yourself in the world of CS:GO.
+
+Join the "Brouhny" server today and embark on an exciting journey through the most exciting places in the CS:GO world together with thousands of like-minded people!
+Availability:
+The "Brouhny" server offers high availability for all CS:GO players looking to enjoy playing on our server. We understand that accessibility is a key aspect for a successful gaming experience, and therefore we do our best to ensure that our server is stable and accessible to all players.
+
+We have a powerful server infrastructure that allows us to support a large number of players at the same time, minimizing delays and ensuring smooth gameplay.In addition, we offer various regional servers to ensure low latency and high performance for players from different parts of the world. This allows every player to enjoy playing on the "Brouhny" server with minimal connection problems and latency.
+
+We also provide convenient ways to connect to the server, including a simple and intuitive registration and login process. With our clean and simple server structure, you can easily find and join your preferred game modes and rooms. Our team of specialists makes sure that the server is reliable and stable, which allows us to offer an uninterrupted gaming environment.
+ <div class="carousel-inner">
+Skins for playing on server
+        <div class="carousel-item active">
+          <img src="https://dmarket.com/blog/best-pink-csgo-skins/AK-47%20Neon%20Revolution_hu49d1d8329130d674ee97022686d14340_136818_675x0_resize_q100_lanczos.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://estnn.com/wp-content/uploads/2022/02/awp-oni.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="https://dmarket.com/blog/most-beautiful-csgo-skins/M4A1-S%20Hyper%20Beast_hu957518b28da29b822be6dab4e505d7ca_112250_675x0_resize_q100_lanczos.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+1skin-for 1hour 
+2skin-for 5 hour 
+3skin-1day
+Donats 
+Cards
+1
+VIP status: We offer players to become VIP users by acquiring a special status for a certain amount. As a VIP player, you will have access to exclusive features such as bonus experience, additional items, or privileged access to teams. This will allow you to enjoy a more unique and varied gaming experience.
+2
+In-Game Currency: We have our own in-game currency that players can purchase by donating. This in-game currency gives you the ability to purchase upgrades, cosmetic items, new weapons, and other in-game benefits. As a donator, you will be able to access exclusive items that will help you stand out on the server.
+3
+Cosmetic Items: We offer unique cosmetic items that players can receive in exchange for donations. These can be unique skins, emblems or weapon models that will be visually appealing and help you stand out from other players on the server.
+Text
+Advertising benefits: If you donate, we provide the opportunity to advertise your personal projects, streams or communities on our server. This will help you get more visibility for your content and bring in new users or viewers.
+We always strive to provide our players with the best gaming experience, and your support through our donation system allows us to make the "Brouhny" server even better. Thank you for choosing our offers and we hope you enjoy the benefits they provide.
+Our Team 
+
+The Robocode team is a group of talented programmers passionate about the art of robot design and programming. We specialize in participation in competitions and projects related to Robocode.
+
+Robocode is a programming platform where members create their own virtual robots and face them off in epic arena battles. It's a fun and exciting way to apply your programming, algorithmic thinking, and strategic planning skills.
+
+Your "Robocode" team is committed to excellence in this area. We learn various programming languages ​​such as Java, Python and C++ and apply them to create smart and powerful robots that can win battles.
+We regularly participate in Robocode competitions where our robots compete against other teams from all over the world. We strive to create innovative strategies, efficient algorithms, and unique development approaches to excel in these competitions.
+
+In addition, our team actively exchanges knowledge and experience in the field of Robocode programming. We conduct internal training sessions, discuss new techniques and share tips to constantly improve our skills and reach new heights in this exciting field.
+
+We are proud of our "Robocode" team and strive to be leaders in the world of robot programming and development. We are constantly evolving and our passion for Robocode never ends.
+Our Projects 
+
+The CS:GO online server "Brouhny" is the first project created by our team, and we are proud of its development and launch. This server was created to provide players with a unique and exciting gaming experience in the world of Counter-Strike: Global Offensive.
+
+We paid special attention to the details and functionality of the "Brouhny" server. We have developed a variety of game modes so that players can enjoy different playstyles, whether it's classic matches, capture the flag, or battle of teams. We have also ensured that the gameplay is balanced so that all players can enjoy a fair and fair game.
+In addition, we have created a friendly and welcoming atmosphere on the "Brouhny" server, where players can make new friends, chat and interact with each other. We maintain zero tolerance for cheating, cheating and abuse to create a safe and enjoyable gaming environment for everyone.
+
+Our team continues to actively develop the "Brouhny" server, introducing new features, improving game balance and listening to feedback from our players. We strive to make the server the best place to play CS:GO and create a community where every player can find their place.
+We thank all the players who joined our "Brouhny" server and support us in our first project. Without you, our server would not be able to achieve such success. We will continue to work hard to provide you with the best gaming experience and make "Brouhny" one of the best CS:GO servers.
+
+
+
+
+
